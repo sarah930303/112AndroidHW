@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20240315_HW</string>
+    <string name="account_number">請輸入帳號:</string>
+    <string name="password">請輸入密碼:</string>
+    <string name="input_account_number">帳號</string>
+    <string name="input_password">密碼</string>
+    <string name="Log">登錄</string>
+    <string name="Ans">結果</string>
+</resources>
