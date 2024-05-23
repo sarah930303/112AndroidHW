@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">0523HW</string>
+    <string-array name="meal_types">
+        <item>主餐</item>
+        <item>附餐</item>
+        <item>飲料</item>
+    </string-array>
+    <string-array name="main_dish_options">
+        <item>PIZZAAAAA熱狗堡</item>
+        <item>熱狗堡PIZZZZA</item>
+        <item>狗</item>
+        <item>熱狗</item>
+    </string-array>
+    <string-array name="side_dish_options">
+        <item>肌肉地瓜沙拉</item>
+        <item>菇菇湯</item>
+        <item>雞塊</item>
+        <item>VVVVVV薯條</item>
+    </string-array>
+    <string-array name="drink_options">
+        <item>可樂</item>
+        <item>雪碧</item>
+        <item>水</item>
+        <item>果汁</item>
+    </string-array>
+</resources>
